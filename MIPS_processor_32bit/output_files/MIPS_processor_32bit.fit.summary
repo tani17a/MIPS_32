@@ -1,0 +1,11 @@
+Fitter Status : Successful - Tue Aug 27 10:11:14 2024
+Quartus Prime Version : 20.1.1 Build 720 11/11/2020 SJ Lite Edition
+Revision Name : MIPS_processor_32bit
+Top-level Entity Name : MIPS32_pipe
+Family : MAX V
+Device : 5M40ZM64C4
+Timing Models : Final
+Total logic elements : 0 / 40 ( 0 % )
+Total pins : 2 / 30 ( 7 % )
+Total virtual pins : 0
+UFM blocks : 0 / 1 ( 0 % )
